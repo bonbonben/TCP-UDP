@@ -1,0 +1,5 @@
+Step 1: Open two terminal
+Step 2: Enter "gcc -o server server.c" and "gcc -o client client.c" to compile
+Step 3: Enter "./server 8000" and "./client 8000 127.0.0.1" to execute
+Step 4: Enter "file" then enter the filename to send a file
+Step 5: Enter "quit" to quit
